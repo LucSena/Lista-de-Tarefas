@@ -18,7 +18,16 @@ O Projeto tem como objetivo principal, desenvolver um site de adicionar e marcar
 
 ## 🎨 Imagens do projeto
 
-<!-- ![GK1](https://github.com/LucSena/Spotify-HomePage-Clone/blob/main/imagens/Página%20Inicial.png) -->
+> Página de Login do Usuario
+![GK1](https://github.com/LucSena/Lista-de-Tarefas/blob/main/imagemgit/LISTA%20DE%20TAREFAS%20(1).png)
+> Página onde mostra as tarefas pendentes.
+![GK1](https://github.com/LucSena/Lista-de-Tarefas/blob/main/imagemgit/LISTA%20DE%20TAREFAS%20(4).png)
+> Página de cadastrar novas tarefas.
+![GK1](https://github.com/LucSena/Lista-de-Tarefas/blob/main/imagemgit/LISTA%20DE%20TAREFAS%20(3).png)
+> Página onde mostra todas as tarefas.
+![GK1](https://github.com/LucSena/Lista-de-Tarefas/blob/main/imagemgit/LISTA%20DE%20TAREFAS%20(2).png)
+
+
 
 ---
 
