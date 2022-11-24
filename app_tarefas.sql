@@ -82,7 +82,7 @@ CREATE TABLE `tb_usuario` (
 --
 
 INSERT INTO `tb_usuario` (`id`, `nome`, `email`, `senha`, `nivel`) VALUES
-(1, 'sena', 'sena@gmail.com', '63a9f0ea7bb98050796b649e85481845', 1);
+(1, 'teste', 'teste@gmail.com', '63a9f0ea7bb98050796b649e85481845', 1);
 
 --
 -- Índices para tabelas despejadas
